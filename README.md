@@ -2,7 +2,7 @@
 
 ## Beckham Crann
 
-## your Github Account id
+## Beck-Crann
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
